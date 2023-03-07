@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  padding: 0 px;
+}
+
+#wrap {
+margin: auto;
+padding: 10px;
+max-width: 1200px;
+background-color: rgb(176, 224, 230);
+}
+h1 {
+  font-family: "Times new roman";
+}
+ul {
+  margin-left: auto;
+  margin-left: auto;
+  text-align: center;
+  list-style-type: none;
+}
