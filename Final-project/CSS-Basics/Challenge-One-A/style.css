@@ -1,0 +1,34 @@
+* {
+  margin: 0px;
+  padding: 0 px;
+  background-color: pink; 
+}
+
+#wrap {
+margin: auto;
+padding: 10px;
+max-width: 1200px;
+
+}
+#wrap1 {
+	background-color: white;
+	border: dotted; 
+}
+h1 {
+  font-family: "Times new roman";
+background-color: white;
+border: dotted; 
+}
+ul {
+  margin-left: auto;
+  margin-left: auto;
+  text-align: center;
+  list-style-type: none;
+  background-color: white;
+}
+li {
+	background-color: white;
+}
+p {
+	background-color: white;
+}
